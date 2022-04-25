@@ -1,0 +1,11 @@
+﻿  ChessClient.cpp
+C:\Users\kings\OneDrive\바탕 화면\[수업]_게임서버프로그래밍\과제\3주차\ChessClient\ChessClient\ChessClient.cpp(117,11): warning C4101: 'text_color' :참조되지 않은 지역 변수입니다.
+C:\Users\kings\OneDrive\바탕 화면\[수업]_게임서버프로그래밍\과제\3주차\ChessClient\ChessClient\ChessClient.cpp(112,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+C:\Users\kings\OneDrive\바탕 화면\[수업]_게임서버프로그래밍\과제\3주차\ChessClient\ChessClient\ChessClient.cpp(118,11): warning C4101: 'bk_color' :참조되지 않은 지역 변수입니다.
+C:\Users\kings\OneDrive\바탕 화면\[수업]_게임서버프로그래밍\과제\3주차\ChessClient\ChessClient\ChessClient.cpp(111,11): warning C4101: 'mdc' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  1 of 42 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ChessClient.vcxproj -> C:\Users\kings\OneDrive\바탕 화면\[수업]_게임서버프로그래밍\과제\3주차\ChessClient\x64\Release\ChessClient.exe
